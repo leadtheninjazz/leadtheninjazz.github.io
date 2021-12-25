@@ -1,0 +1,34 @@
+HTML NOTES:
+Cấu trúc:
+-File nên tạo đầu tiên: index.html (Hầu hết các
+web host sẽ tự động truy cập vào file này trước,
+người dùng khi truy cập vào trang cũng sẽ truy cập vào
+home page đầu tiên)
+- Phải khai báo <!DOCTYPE html> đầu tiên
+Thẻ:
+-Head:
+<title>....</tiltle> (Thẻ tiêu đề, sẽ hiển thị tiêu đề
+ trên tab trình duyệt)
+-Body:
+<h1,2,3,4,5,6>.....</h1,2,3,4,5,6> (các thẻ heading, 
+số càng lớn thì chữ càng nhỏ)
+<p>....</p> (thẻ văn bản/paragraph)
+<img>...src="link ảnh" alt="Chữ miêu tả nội dung ảnh"....</img>
+ (thẻ hình ảnh)
+<a..href="...">....</a> (thẻ đặt liên kết)
+<ul>....</ul> (unordered list)
+<li>....</li> (danh sách)
+<table> (bảng)
+ <thead> 
+  <th>..</th>
+ </thead>
+ 
+ <tbody>
+  <tr>
+   <td>....</td>
+  </tr>
+<input type="text">
+<input type="checkboc">        (thẻ nhập vào)
+<input name=".. type="radio">
+<button>...</button> (thẻ nút)
+<div>...</div> (thẻ bao quanh) 
